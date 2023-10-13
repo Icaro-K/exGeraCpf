@@ -1,1 +1,1 @@
-Exercício, criação de um gerador de CPF, usando modules e node.
+Exercício, criação de um gerador de CPF, usando modules, webpack e node.
